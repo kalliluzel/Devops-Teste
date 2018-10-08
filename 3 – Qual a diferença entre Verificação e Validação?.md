@@ -1,12 +1,12 @@
-# 3-
+3-
 
-# VERIFICAÇÃO
+ VERIFICAÇÃO
 
-# comprovação, através de fornecimento de evidência objetiva, de que requisitos especificados foram atendidos.
+comprovação, através de fornecimento de evidência objetiva, de que requisitos especificados foram atendidos.
 
-# VALIDAÇÃO
+ VALIDAÇÃO
 
-# comprovação, através do fornecimento de evidência objetiva, de que os requisitos para uma aplicação ou uso específicos 
+ comprovação, através do fornecimento de evidência objetiva, de que os requisitos para uma aplicação ou uso específicos 
 pretendidos foram atendidos.
 
-# Marcelo Rosa de Araujo RA: 1800505
+ Marcelo Rosa de Araujo RA: 1800505
