@@ -1,7 +1,7 @@
 # 1-
 
-# Os testes realizados em uma cultura DevOps visam concentrar-se em testes automatizados dentro do seu pipeline de compilação para 
-garantir uma build estável pronta para ser implementada. Em um processo de Continuous Delivery, você deve garantir a qualidade do 
-código e estabilidade da entrega.Ferramentas populares para testes são: Selenium, Junit, etc.
+# O teste do software é a investigação do software a fim de fornecer informações sobre sua qualidade em relação ao contexto em 
+que ele deve operar, se relaciona com o conceito de verificação e validação. Isso inclui o processo de utilizar o produto para 
+encontrar seus defeitos.
 
 # Kallil lopes uzel pereira ra:1701908
