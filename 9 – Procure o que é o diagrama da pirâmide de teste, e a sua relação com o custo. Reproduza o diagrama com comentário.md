@@ -3,3 +3,6 @@ A pirâmide de teste é uma estratégia para otimizar testes e representa a rela
 sendo assim, mostra que quanto mais próximo do topo da pirâmide, maior o custo e melhor o desempenho de testes.Uma estratégia
 para automatização de teste é incluir ambiente do desenvolvimento fazendo que automatize os testes para trazer
 ganhos de grandes projetos.
+
+
+#Kleber cristian B. de castro RA:1800358
